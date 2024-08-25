@@ -2,8 +2,6 @@
 
 ![DevOps](https://img.shields.io/badge/DevOps-Journey-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Ongoing-green.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/DevOps-Journey)
-![GitHub stars](https://img.shields.io/github/stars/your-username/DevOps-Journey?style=social)
 
 ## 📚 Introduction
 
