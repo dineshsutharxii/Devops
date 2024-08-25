@@ -1,0 +1,2 @@
+What is Devops ?
+- DevOps is a way of working where the people who create software (developers) and the people who manage and deploy it (operations) work closely together to make the process faster, more reliable, and efficient. By collaborating and using tools to automate tasks, they can quickly develop, test, and release software updates, ensuring that everything runs smoothly and users get new features and fixes more quickly.
